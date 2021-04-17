@@ -1,0 +1,4 @@
+com/bytedance/jump/BuildConfig.java
+ com.bytedance.jump.BuildConfig
+com/bytedance/jump/MainActivity.java
+ com.bytedance.jump.MainActivity
